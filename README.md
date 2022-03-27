@@ -8,7 +8,7 @@ A new Flutter project.
 Uygulamanın apk dosyasını yükledim<br></br>
 1 haftadır yapmakta olduğum WhatsApp Clone uygulamasını tamamlamış bulunmaktayım. En yakın zamanda resimlerini yükleyeceğim
 
-</hr>
+<hr>
 
 [EN]
 I have uploaded apk file<br></br>
