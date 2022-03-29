@@ -16,16 +16,19 @@ I have created WhatsApp clone front-end which took approximately one week. I wil
 
 
 <hr>
-## İmages from WhatsApp Clone
+
+İmages from WhatsApp Clone
+
+</br>
 </br>
 
 <p float="left">
-  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim1.JPG" width="100" />
-  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim5.JPG" width="100" /> 
-  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim3.JPG" width="100" />
+  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim1.JPG" width="120" />
+  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim5.JPG" width="120" /> 
+  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim3.JPG" width="120" />
 </p>
 </br>
 <p float="left">
-  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim4.JPG" width="100" />
-  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim2.JPG" width="100" /> 
+  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim4.JPG" width="120" />
+  <img src="https://github.com/ErdalNayir/WhatsApp_Clone/blob/main/lib/assets/images/resim2.JPG" width="120" /> 
 </p>
