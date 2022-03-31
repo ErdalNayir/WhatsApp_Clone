@@ -12,7 +12,7 @@ A new Flutter project.
 
 [EN]
 <br></br>
-I have created WhatsApp clone front-end which took approximately one week. I have learnt and experienced many important widgets, which are provided by flutter framework, by completing this project. Developing an app and turning its source code into signed apk is important information and experience for me as well.
+I have created WhatsApp clone front-end which took approximately one week. I have learnt and experienced many important widgets, which are provided by flutter framework, by completing this project. Developing an app and turning its source code into signed apk are important information and experience for me as well.
 
 
 
