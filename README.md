@@ -5,14 +5,16 @@ A new Flutter project.
 ## Tamamlandı (Completed)
 
 [TR]
-Uygulamanın apk dosyasını yükledim<br></br>
-1 haftadır yapmakta olduğum WhatsApp Clone uygulamasını tamamlamış bulunmaktayım. En yakın zamanda resimlerini yükleyeceğim
+<br></br>
+1 haftadır yapmakta olduğum WhatsApp Clone uygulamasını tamamlamış bulunmaktayım. Bu projeyi tammalayarak flutter framework'un sunduğu birçok widget hakkında deneyim sahibi oldum ve ayrıca bir uygulamanın geliştirilmesi ve sonradan signed apk dosyasına çevrilmesine kadar olan süreçlerini tamamlayarak değerli bilgiler edindiğimi düşünüyorum.
 
 <hr>
 
 [EN]
-I have uploaded apk file<br></br>
-I have created WhatsApp clone front-end which took approximately one week. I will upload app images as soon as possible.
+<br></br>
+I have created WhatsApp clone front-end which took approximately one week. I have learnt and experienced many important widgets which are provided by flutter framework by completed this project. Developing an app and turning its source code into signed apk is important information and experience for me as well.
+
+
 
 
 <hr>
